@@ -1,0 +1,3 @@
+INSERT INTO account VALUES(1,'yourname@yourdomain.com','Hege', 'Pege', 'OK', '901 San Antonio Road', 'MS UCUP02-206', 'Palo Alto', 'CA', '94303', 'USA',  '555-555-5555');
+INSERT INTO account VALUES(2,'acid@yourdomain.com','Kim', 'Pim', 'OK', '901 San Antonio Road', 'MS UCUP02-206', 'Palo Alto', 'CA', '94303', 'USA',  '555-555-5555');
+INSERT INTO account VALUES(3,'acid@yourdomain.com','Sal', 'Smith', 'OK', '901 San Antonio Road', 'MS UCUP02-206', 'Palo Alto', 'CA', '94303', 'USA',  '555-555-5555');
